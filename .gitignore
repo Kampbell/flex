@@ -1,3 +1,10 @@
+# VS generated files
+Debug/
+Release/
+*.ilk
+*.pdb
+*.idb
+
 # Flex generated files
 .bootstrap
 
