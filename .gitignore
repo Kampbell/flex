@@ -1,3 +1,6 @@
+# Flex generated files
+.bootstrap
+
 # Compiled Object files
 *.slo
 *.lo
