@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+# Linux generated files
+Makefile
+config-cache
+config.h
+config.log
+config.status
+parse.c
+parse.h
+scan.c
